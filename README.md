@@ -1,7 +1,7 @@
-- 👋 Hi, I am Faisal Ejaz, a full stack .net + angular developer
-- 👀 I love to work on enterprise web applications
-- 🌱 I’m currently learning python and AWS
-- 💞️ I’m looking to collaborate on almost any activity related to software development 
+- 👋 Hi, I am Faisal Ejaz, a full stack developer with expertise in JavaScript (Angular, React), .Net Core & MS SQL
+- 👀 I love to work on enterprise web applications with leading technologies
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on any activity related to software development 
 - 📫 You can visit my personal site at faisalejaz.com to know more about me
 - Happy Coding !
 
